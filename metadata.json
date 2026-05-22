@@ -1,0 +1,6 @@
+{
+  "name": "rahim tv",
+  "description": "تطبيق بث مباشر للمباريات وجداول مباريات اليوم مأخوذ من موقع syrlive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
